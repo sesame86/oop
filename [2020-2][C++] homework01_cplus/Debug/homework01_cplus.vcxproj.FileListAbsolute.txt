@@ -1,0 +1,2 @@
+C:\Users\kyy80\source\repos\homework01_cplus\Debug\homework01_cplus.exe
+C:\Users\kyy80\source\repos\homework01_cplus\Debug\homework01_cplus.pdb
