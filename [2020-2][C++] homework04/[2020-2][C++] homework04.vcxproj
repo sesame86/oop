@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chap10_2.cpp" />
+    <ClCompile Include="chap10_3.cpp" />
+    <ClCompile Include="chap10_5.cpp" />
+    <ClCompile Include="chap10_7.cpp" />
+    <ClCompile Include="chap10_9.cpp" />
     <ClCompile Include="chap9_1.cpp" />
     <ClCompile Include="chap9_2.cpp" />
     <ClCompile Include="chap9_4.cpp" />
@@ -147,6 +151,8 @@
     <ClCompile Include="chap9_6.cpp" />
     <ClCompile Include="chap9_7.cpp" />
     <ClCompile Include="chap9_8.cpp" />
+    <ClCompile Include="chap10_4.cpp" />
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
